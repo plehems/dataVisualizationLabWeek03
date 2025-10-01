@@ -16,7 +16,7 @@ https://datavisaulizationlabweek02.vercel.app/index.html
 
 # Data visualization TO3: Communicating Data Insights
 ## Data Story
-### Step 1: Who is the Audience? 
+### Who is the Audience? 
 The primary audience for this visualization are **Australian Consumers** who are looking to purchase a television and are concerned about **energy efficiency and cost saving**. Secondary audience include **retailers** intrested in the popular brand and products.
 
 #### Audience characteristics
@@ -31,7 +31,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Present the story in a logical flow where it starts from TVs availability -> size -> brands -> energy usage -> star rating
 - All data visualizations must be filtered to display only the top 10 most relevant data points to remove low-impact data to ensure the narrative easy to disgest.
 
-### Step 2: What Do They Want to Know?
+### What Do They Want to Know?
 
 #### Audience mainly wants answer to
 - **Screen Technologies**: What TV technologies (LCD, OLED, Plasma, etc.) are available in Australia, and which are most common?
@@ -46,6 +46,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
