@@ -10,18 +10,21 @@ Website link:
 https://datavisaulizationlabweek02.vercel.app/index.html
 
 # Data visualization TO2: Data Exploration and Basic Chart Types
-
+Study the column attribute meaning
+- Star image (Energy rating icon): https://www.energy.gov.au/households/energy-rating
 
 
 # Data visualization TO3: Communicating Data Insights
 ## Step 1: Who is the Audience? 
-The primary audience for this visualization are **Australian Consumers** who are looking to purchase a television and are concerned about **eneryg efficiency and cost saving**. Secondary audience include **retailers** intrested in the popular brand and products.
+The primary audience for this visualization are **Australian Consumers** who are looking to purchase a television and are concerned about **energy efficiency and cost saving**. Secondary audience include **retailers** intrested in the popular brand and products.
 
 ### Audience characteristics
-- Limited technical expertise where the consumer much prefer simple charts then raw data.
-- 
+- Limited technical expertise where consumers much prefer simple charts rather then raw data.
+- Intrested in practical insights such as TV brands, models and screen technologies that are most energy efficiency
+- Likely motivated by reducing **eletricity bills** with better star rating
 
 ## Step 2: What Do They Want to Know?
+
 
 
 
