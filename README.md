@@ -19,7 +19,7 @@ https://datavisaulizationlabweek02.vercel.app/index.html
 ### Data Source
 The dataset was obtained from the Australian Governement open data portal
 - **[Data Source](https://data.gov.au/data/dataset/energy-rating-for-household-appliances/resource/93a615e5-935e-4713-a4b0-379e3f6dedc9)**
-- **[Data Dictionary](https://data.gov.au/data/dataset/energy-rating-for-household-appliances/resource/8b0450be-2cc6-4f5d-b885-4f1e0fb9ee64)**
+- **[Data Dictionary](https://data.gov.au/data/dataset/559708e5-480e-4f94-8429-c49571e82761/resource/8b0450be-2cc6-4f5d-b885-4f1e0fb9ee64/download/televisionsmay2015.docx)**
 
 ## Data Story
 ### Who is the Audience? 
@@ -52,6 +52,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
