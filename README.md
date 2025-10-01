@@ -21,6 +21,23 @@ The dataset was obtained from the Australian Governement open data portal
 - [Data Source](https://data.gov.au/data/dataset/energy-rating-for-household-appliances/resource/93a615e5-935e-4713-a4b0-379e3f6dedc9)
 - [Data Dictionary](https://data.gov.au/data/dataset/energy-rating-for-household-appliances/resource/8b0450be-2cc6-4f5d-b885-4f1e0fb9ee64)
 
+### Data processing
+
+### Privacy
+- The dataset contains no personally identifiable information (PII).
+- It only includes product-level details (e.g. brand, model, technical specifications, efficiency ratings).
+- Since it is publicly available government data, there are no privacy risks.
+
+### Accuracy and Limitations
+- The dataset reflects product registrations as of September 2015 and may not include the latest television models.
+- Star ratings and energy consumption values are based on standardized government testing procedures, which may not reflect real-world household usage conditions.
+- Manufacturer-reported fields (e.g., availability status, country of manufacture) may have inconsistencies.
+
+### Ethics
+- The data is intended for consumer transparency and helps Australians make informed decisions about energy-efficient TVs.
+- Using this dataset for visualisation supports sustainability goals by encouraging awareness of energy consumption and strengthen Australia Energy Efficiency (E3) Program.
+- Any form of baises are excluded from this data visualization.
+
 ## Data Story
 ### Who is the Audience? 
 The primary audience for this visualization are **Australian Consumers** who are looking to purchase a television and are concerned about **energy efficiency and cost saving**. Secondary audience include **retailers** intrested in the popular brand and products.
@@ -52,6 +69,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
