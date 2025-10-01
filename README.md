@@ -9,12 +9,12 @@ I have learnt basic JavaScript from the following links:
 Website link: 
 https://datavisaulizationlabweek02.vercel.app/index.html
 
-# Data visualization TO2: Data Exploration and Basic Chart Types
+# Data visualization T02: Data Exploration and Basic Chart Types
 ## Research and understand Australia Energy Data Dictionary for TVs labelled
 - [Star image (Energy rating icon)](https://www.energy.gov.au/households/energy-rating)
 
 
-# Data visualization TO3: Communicating Data Insights
+# Data visualization T03: Communicating Data Insights
 ## About the Data
 ### Data Source
 The dataset was obtained from the Australian Governement open data portal can be access **[here](https://data.gov.au/)** 
@@ -50,6 +50,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
