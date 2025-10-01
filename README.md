@@ -15,9 +15,14 @@ https://datavisaulizationlabweek02.vercel.app/index.html
 
 # Data visualization TO3: Communicating Data Insights
 ## Step 1: Who is the Audience? 
-The primary audience for this visualization are **bold** Australian Consumer **bold**
+The primary audience for this visualization are **Australian Consumers** who are looking to purchase a television and are concerned about **eneryg efficiency and cost saving**. Secondary audience include **retailers** intrested in the popular brand and products.
 
-Step 2: What Do They Want to Know?
+### Audience characteristics
+- Limited technical expertise where the consumer much prefer simple charts then raw data.
+- 
+
+## Step 2: What Do They Want to Know?
+
 
 
 
