@@ -2,6 +2,7 @@
 
 Website can be access [here](https://datavisaulizationlabweek02.vercel.app/index.html)
 
+## Declaration
 Gen AI have been used to do some refreshers on HTML and CSS
 
 I have learnt basic JavaScript from the following links:
@@ -67,6 +68,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
