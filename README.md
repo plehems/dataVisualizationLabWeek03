@@ -11,7 +11,7 @@ https://datavisaulizationlabweek02.vercel.app/index.html
 
 # Data visualization TO2: Data Exploration and Basic Chart Types
 ## Research and understand Australia Energy Data Dictionary for TVs labelled
-- Star image (Energy rating icon): https://www.energy.gov.au/households/energy-rating
+- [Star image (Energy rating icon)](https://www.energy.gov.au/households/energy-rating)
 
 
 # Data visualization TO3: Communicating Data Insights
@@ -50,6 +50,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
