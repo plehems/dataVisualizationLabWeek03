@@ -4,7 +4,7 @@ Gen AI have been used to do some refresher on HTML and CSS
 
 I have learnt basic JavaScript from the following links:
 - [How to Add JavaScript to HTML for Beginners](https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html)
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide?
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide?)
 
 Website link: 
 https://datavisaulizationlabweek02.vercel.app/index.html
@@ -50,6 +50,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
