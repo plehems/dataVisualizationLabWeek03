@@ -10,7 +10,7 @@ Website link:
 https://datavisaulizationlabweek02.vercel.app/index.html
 
 # Data visualization TO2: Data Exploration and Basic Chart Types
-Study the column attribute meaning
+## Research and understand Australia Energy Data Dictionary for TVs labelled
 - Star image (Energy rating icon): https://www.energy.gov.au/households/energy-rating
 
 
@@ -23,7 +23,15 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Intrested in practical insights such as TV brands, models and screen technologies that are most energy efficiency
 - Likely motivated by reducing **eletricity bills** with better star rating
 
+### Guidelines for the story
+- Use plain language to explain visualizations (avoid using abbreviation)
+- Emphasize comparion
+- Focus on 6 or 7 insights without overwhelming the audiences
+- Present the story in a logical flow
+- Chart
+
 ## Step 2: What Do They Want to Know?
+
 
 
 
