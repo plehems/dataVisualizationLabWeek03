@@ -27,11 +27,24 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Use plain language to explain visualizations (avoid using abbreviation)
 - Emphasize comparion
 - Focus on 6 or 7 insights without overwhelming the audiences
-- Present the story in a logical flow
-- Chart
+- Present the story in a logical flow where it starts from TVs availability -> size -> brands -> energy usage -> star rating
+- All data visualizations must be filtered to display only the top 10 most relevant data points to remove low-impact data to ensure the narrative easy to disgest.
 
 ## Step 2: What Do They Want to Know?
 
+### Audience mainly wants answer to
+- **Screen Technologies**: What TV technologies (LCD, OLED, Plasma, etc.) are available in Australia, and which are most common?
+- **Screen Sizes**: What screen sizes are on the market, and which are most popular?
+- **Brands**: Which brands offer the most models and variety?
+- **Power Consumptions**: Which screen technology uses the least power when in use (avg_mode_power)?
+- **Screen Size vs Power Use**: Is there a clear relationship between TV size and electricity use?
+- **Star Rating**: How does star rating (Star2/SRI) relate to screen size and power usage?
+
+### What's important to them
+- Knowing which TVs will cost less to  run over time
+- Identify which brands and models balance with energy efficiency
+- Understanding wheter buying a bigger TV always meas worse energy efficiency
+- Clear recommendations
 
 
 
