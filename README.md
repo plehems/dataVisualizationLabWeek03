@@ -6,8 +6,8 @@ I have learnt basic JavaScript from the following links:
 - [How to Add JavaScript to HTML for Beginners](https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html)
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide?)
 
-Website link: 
-https://datavisaulizationlabweek02.vercel.app/index.html
+## Demostration 1
+[Website](https://datavisaulizationlabweek02.vercel.app/index.html)
 
 # Data visualization T02: Data Exploration and Basic Chart Types
 ## Research and understand Australia Energy Data Dictionary for TVs labelled
@@ -68,6 +68,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
