@@ -17,7 +17,7 @@ https://datavisaulizationlabweek02.vercel.app/index.html
 # Data visualization TO3: Communicating Data Insights
 ## About the Data
 ### Data Source
-The dataset was obtained from the Australian Governement open data portal can be access **[here](https://data.gov.au/data/dataset/energy-rating-for-household-appliances) 
+The dataset was obtained from the Australian Governement open data portal can be access [here](https://data.gov.au/data/dataset/energy-rating-for-household-appliances) 
 
 ## Data Story
 ### Who is the Audience? 
@@ -50,6 +50,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
