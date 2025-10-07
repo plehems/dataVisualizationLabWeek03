@@ -15,6 +15,7 @@ I have learnt basic JavaScript from the following links:
 
 
 # Data visualization T03: Communicating Data Insights
+Website can be acccess [here](datavisualizationt03-lcgqh8w2c-plehmes-projects.vercel.app)
 ## About the Data
 ### Data Source
 The dataset was obtained from the Australian Governement open data portal
@@ -68,6 +69,7 @@ The primary audience for this visualization are **Australian Consumers** who are
 - Identify which brands and models balance with energy efficiency
 - Understanding wheter buying a bigger TV always meas worse energy efficiency
 - Clear recommendations
+
 
 
 
